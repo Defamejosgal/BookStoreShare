@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "category":"1",
+    "categorydescription":"Children Books",
+    "cover":"\/images\/bookcover\/red_riding_hood.jpg",
+  "author":"Aarne Thompson",
+    "publisher":"Classified publications",
+    "title":"Red Riding Hood"},
+  {
+    "id": "2",
+    "category":"1",
+    "categorydescription":"Children Books",
+    "cover":"\/images\/bookcover\/cinderela.jpg",
+    "author":"Catskin",
+    "publisher":"Classified publications",
+    "title":"Cinderella"},
+  {
+    "id": "3",
+    "category":"1",
+    "categorydescription":"Children Books",
+    "cover":"\/images\/bookcover\/the_tree_musketeers.jpg",
+    "author":"Alexandre Dumas",
+    "publisher":"Fleurs du Paris",
+    "title":"The Tree Musketeers"},
+  {
+    "id": "4",
+    "category":"1",
+    "categorydescription":"Children Books",
+    "cover":"\/images\/bookcover\/big_bad_wolf.jpg",
+    "author":"Anthony Parker",
+    "publisher":"Babylon Publication",
+    "title":"Big Bad Wolf"},
+  {
+    "id": "5",
+    "category":"2",
+    "categorydescription":"Games",
+    "cover":"\/images\/bookcover\/players_handbook.jpg",
+    "author":"Wizards", "publisher":"Wizards Of The Coast",
+    "title":"Players handbook"
+  },
+  {
+    "id": "6",
+    "category":"2",
+    "categorydescription":"Games",
+    "cover":"\/images\/bookcover\/monster_manual.jpg",
+    "author":"Wizards", "publisher":"Wizards Of The Coast",
+    "title":"Monsters Manual"},
+  {
+    "id": "7",
+    "category":"2",
+    "categorydescription":"Games",
+    "cover":"\/images\/bookcover\/dungeon_master_guide.jpg",
+    "author":"Wizards",
+    "publisher":"Wizards Of The Coast",
+    "title":"Dungeon Master Guide"
+  }
+]
